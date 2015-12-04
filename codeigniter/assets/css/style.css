@@ -1,0 +1,25 @@
+/* 
+    Document   : style
+    Created on : 26-Oct-2015, 14:29:27
+    Author     : Tariq
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.right { 
+    float: right;
+}
+.full_width{
+    width: 100%;
+}
+.listing_image{
+    height: 155px;
+}
+.no-bg{
+    background:none !important;
+}
+.managment-icon{
+    background: url('../images/managment-icon.png') no-repeat;
+    height: 13px;
+}
+
