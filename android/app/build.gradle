@@ -1,0 +1,70 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+    packagingOptions {
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'allclasses-frame.html'
+        exclude 'allclasses-noframe.html'
+        exclude 'index-all.html'
+        exclude 'overview-summary.html'
+        exclude 'constant-values.html'
+        exclude 'overview-tree.html'
+        exclude 'deprecated-list.html'
+        exclude 'index.html'
+        exclude 'stylesheet.css'
+        exclude 'overview-frame.html'
+        exclude 'resources/inherit.gif'
+        exclude 'help-doc.html'
+        exclude 'serialized-form.html'
+        exclude 'package-list'
+        exclude 'com/j256/ormlite/android/LICENSE.txt'
+        exclude 'com/j256/ormlite/android/README.txt'
+        exclude 'com/j256/ormlite/db/package-frame.html'
+        exclude 'com/j256/ormlite/db/package-summary.html'
+    }
+    defaultConfig {
+        applicationId "com.cig.consumerbreak"
+        minSdkVersion 11
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile project(':imageResizer')
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:22.0.0'
+    compile 'de.hdodenhof:circleimageview:1.2.1'
+    compile files('libs/commons-collections4-4.0-sources.jar')
+    compile files('libs/commons-collections4-4.0.jar')
+    compile files('libs/commons-collections4-4.0-javadoc.jar')
+    compile files('libs/ormlite-android/ormlite-android-4.48.jar')
+    compile files('libs/ormlite-android/ormlite-android-4.48-javadoc.jar')
+    compile files('libs/ormlite-android/ormlite-android-4.48-sources.jar')
+    compile files('libs/ormlite-core/ormlite-core-4.48.jar')
+
+
+
+    compile files('libs/imageloader-core-1.5.8.jar')
+    compile files('libs/universal-image-loader-1.9.3.jar')
+    compile files('libs/gson/gson-2.2.4-javadoc.jar')
+    compile files('libs/gson/gson-2.2.4-sources.jar')
+    compile files('libs/gson/myjson-2.2.4.jar')
+    compile project(':imageResizer')
+    compile project(':StaggeredGridLibrary')
+    compile 'com.google.android.gms:play-services:6.1.71'
+    compile files('libs/android-async-http-1.4.4.jar')
+    compile files('libs/httpmime-4.2.6-sources.jar')
+    compile files('libs/httpmime-4.2.4.jar')
+
+}

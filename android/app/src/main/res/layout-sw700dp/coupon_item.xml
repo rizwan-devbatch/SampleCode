@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingBottom="5dp"
+    android:background="#FFFFFF"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:background="@drawable/rounded_inside_white_without_shadow"
+        >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:background="@drawable/rounded_inside_white"
+        >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:background="#EEEEEE"
+        >
+    <RelativeLayout
+        android:id="@+id/relativeLayoutUperCoupon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true">
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:id="@+id/imageViewCouponMainImage"
+            android:layout_alignParentLeft="true"
+            android:scaleType="fitXY"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/coupon_picture"
+            />
+        <TextView
+            android:layout_below="@+id/imageViewCouponMainImage"
+            android:text="ProductBrand"
+            android:textSize="28sp"
+
+            android:id="@+id/textViewAdvertiserName"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            />
+        </RelativeLayout>
+        <LinearLayout
+           android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginRight="10dp"
+            android:gravity="right"
+            android:layout_marginTop="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@+id/relativeLayoutUperCoupon"
+
+            >
+            <TextView
+                android:id="@+id/textViewSavePrice"
+                android:layout_alignParentRight="true"
+                android:text="SAVE $2"
+                android:textSize="34sp"
+                android:textColor="@color/black"
+                android:layout_alignParentTop="true"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:paddingLeft="5dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/textViewSavePriceDetail"
+                android:layout_alignParentRight="true"
+                android:text="Sample text sdfasdfsdadsfa\ndfsadfs"
+                android:paddingTop="20dp"
+                android:layout_below="@+id/textViewSavePrice"
+                android:textSize="26sp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:paddingLeft="5dp"
+
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/moreDetails"
+                android:text="See more"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:layout_below="@+id/textViewSavePrice"
+                android:textSize="26sp"
+                android:singleLine="true"
+                android:textColor="#8399F7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/textViewRedeem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Redeem"
+            android:textSize="@dimen/login_text_size"
+            android:background="@drawable/button_yellow"
+            android:paddingTop="15dp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="15dp"
+            android:paddingRight="30dp"
+            android:paddingLeft="30dp"
+            android:textStyle="bold"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            />
+        </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

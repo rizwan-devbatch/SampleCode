@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\StudioWorkspace\ConsumerBreak\app\libs\android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.4-3c2fdc63902996164f52ce3c19ae103273a0ebda.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\exploded-aar\ConsumerBreak\StaggeredGridLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="48e4c62a94ed0b755b83502922f1b3e302c553b7">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\classes-99bac2f635a7a71af883a40cf16b3c239facf9ce.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\classes-678730e08595d90230a861a3f571f6016232de0c.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\exploded-aar\ConsumerBreak\imageResizer\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0956d4f8dc9073f636502161b4db7d9679dab756">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\classes-f29553db837f9a04d80c33342e603d833a15f89d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioAndSdk\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-d86cb934c27fc4dcf3163e73e6fa9f860244072c.jar" />
+    </item>
+    <item
+        jar="C:\Users\DevBatch\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-2274c16bee21f4ff32e2e0c0d8b9d8a6cb2adf6b.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\classes-f4c1627018535cb4635cfc5612fae81b1d75471b.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\classes-81618cef2afcef22ef399225874bb7559874693a.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\ConsumerBreak\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-34f9415e1f279786b3d73eadfd8dcb6f69ebcac3.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\ConsumerBreak\app\libs\httpmime-4.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dba4d4d224e2ca872af5be8d2992777583145478">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\httpmime-4.2.4-8878f83d3deab7dba6f50baf8a672f2e933fd8f1.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-d9360b868839dd10a696c2c697a8af1e7649e145.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\ConsumerBreak\app\libs\commons-collections4-4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="da217367fd25e88df52ba79e47658d4cf928b0d1">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\commons-collections4-4.0-46a6559788ca33dd94af6590377e243ce8880f6f.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\classes-c7fcb82751ff0f65369dc0a5fc77c07e8c4d8214.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\ConsumerBreak\app\libs\ormlite-core\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\ormlite-core-4.48-16817144fe9b4fee66d49d2288703cdf378b621a.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\ConsumerBreak\app\libs\ormlite-android\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\ormlite-android-4.48-30495b5a9dd386760f89054fce4f032a2c726cbe.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\classes-bb340bead4b3166211be53b0e600ad42c55aad3e.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\ConsumerBreak\app\libs\gson\myjson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="14385295ce82764091b1b57b36d1fac3ed2d7429">
+        <dex dex="D:\StudioWorkspace\ConsumerBreak\app\build\intermediates\pre-dexed\debug\myjson-2.2.4-876e1b94c4919c3d959253b68ceeb4bb11053de6.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,21 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="login_text_size">16sp</dimen>
+    <dimen name="search_bar_height">40dp</dimen>
+    <dimen name="search_bar_spinner_width">100dp</dimen>
+    <dimen name="spinner_text_size">16dp</dimen>
+    <dimen name="pay_money_height">30dp</dimen>
+    <dimen name="coupon_list_head">18sp</dimen>
+    <dimen name="point_pix_height">115dp</dimen>
+    <dimen name="point_pix_width">115dp</dimen>
+    <dimen name="point_heading_text">28sp</dimen>
+    <dimen name="point_pointSize_text">18sp</dimen>
+    <dimen name="grid_home_item_height">400dp</dimen>
+    <dimen name="grid_home_item_width">400dp</dimen>
+    <dimen name="ad_shop_item_width">130dp</dimen>
+    <dimen name="puzzle_margin">50dp</dimen>
+    <dimen name="border_width">2dp</dimen>
+
+</resources>
